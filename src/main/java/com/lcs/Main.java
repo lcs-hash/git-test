@@ -24,6 +24,7 @@ public class Main {
         System.out.println("pull test1");
         System.out.println("pull test2");
         System.out.println("push gitee");
+        System.out.println("push github");
 
     }
 }
